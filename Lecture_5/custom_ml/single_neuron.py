@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 from mlxtend.plotting import plot_decision_regions
 import numpy as np
 
-from models.activation_functions import sign_activation, linear_regression_activation, sigmoid_activation
-from models.model_functions.cost_functions import mean_sqaured_error, cross_entropy_loss
+from custom_ml.activation_functions import sign_activation, linear_regression_activation, sigmoid_activation
+from custom_ml.cost_functions import mean_sqaured_error, cross_entropy_loss
 
 
 __all__ = ["SingleNeuron", 
