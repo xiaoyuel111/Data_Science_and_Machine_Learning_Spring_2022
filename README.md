@@ -14,10 +14,8 @@
     - Gradient Descent
     - Logistic Regression
     - Deep Neural Network
-    - Support Vector Machines
     - k-Nearest Neighbors
     - Decision/ Regression Trees
-    - Ensemble Learning
 
  
 **Datasets included in the course:**
