@@ -8,4 +8,9 @@ Python has been an object-oriented language since its design. Because of this, i
 Introduction to commonly used Python packages：
   - Numpy
   - Pandas
+  - Matplotlib
+
+The data used in structure 2 is
+
+
 
