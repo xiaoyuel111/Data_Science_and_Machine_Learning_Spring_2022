@@ -6,7 +6,7 @@
 
 ### Instructor: Randy R. Davila
 
-Models included in the course:
+**Models included in the course:**
 
 - **Supervised Learning**:
     - Model Building and Error Analysis
@@ -19,14 +19,8 @@ Models included in the course:
     - Decision/ Regression Trees
     - Ensemble Learning
 
-- **Unsupervised Learning**:
-    - k-Means Clustering
-    - Principle Component Analysis
-
-- **Reinforcement Learning**:
-    - Tabular versus Deep Learning Methods
  
-Datasets included in the course:
+**Datasets included in the course:**
 
 - **Wheat seed dataset**:
     - Similar to iris dataset. The data set contains seed information belonging to three different wheat varieties: Kama, Rosa and Canadian, represented by 1, 2 and 3 respectively
