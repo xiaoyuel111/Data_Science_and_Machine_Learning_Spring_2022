@@ -13,7 +13,7 @@
     - Linear Regression
     - Gradient Descent
     - Logistic Regression
-    - Neural Nets
+    - Deep Neural Network
     - Support Vector Machines
     - k-Nearest Neighbors
     - Decision/ Regression Trees
