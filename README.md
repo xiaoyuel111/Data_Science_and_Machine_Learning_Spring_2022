@@ -16,6 +16,7 @@
     - Deep Neural Network
     - k-Nearest Neighbors
     - Decision/ Regression Trees
+    - Ensemble methods
 
  
 **Datasets included in the course:**
