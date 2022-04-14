@@ -2,7 +2,7 @@ Lecture 4 talks about two models, namely:
 
 - Part 1:
 
-  gradient descent
+  Gradient Descent
 
 - Part 2:
 
