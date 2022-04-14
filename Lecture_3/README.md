@@ -1,6 +1,6 @@
 Lecture 3  introduced the Single Neuron Model.
 
-The data used in structure 3 is
+The data used in Lecture 3 is
 
 - Wheat seed dataset:
 
