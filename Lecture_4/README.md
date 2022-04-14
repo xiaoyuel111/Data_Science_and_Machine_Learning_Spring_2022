@@ -8,7 +8,7 @@ Lecture 4 talks about two models, namely:
 
   Single Neuron Linear Regression Model
 
-The data used in structure 4 is
+The data used in Lecture 4 is
 
 - Wheat seed dataset:
 
