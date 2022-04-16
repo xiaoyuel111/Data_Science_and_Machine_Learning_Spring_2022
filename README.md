@@ -17,7 +17,9 @@
     - k-Nearest Neighbors
     - Decision/ Regression Trees
     - Ensemble methods
-
+- **Unsupervised Learning**:
+    - k-Means Clustering
+    - Principle Component Analysis
  
 **Datasets included in the course:**
 
