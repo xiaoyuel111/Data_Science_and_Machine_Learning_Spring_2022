@@ -1,5 +1,11 @@
-Lecture 6 explains a deep neural network in detail.
-The data used in structure 6 is
+**Introduction**  
+
+Deep neural network (DNN) is a framework of deep learning. It is a neural network with at least one hidden layer. Similar to shallow neural network, deep neural network can also provide modeling for complex nonlinear systems, but the extra level provides a higher level of abstraction for the model, which improves the ability of the model.
+
+
+
+
+The data used in this task is
 
 - Fashion MNIST dataset:
 
