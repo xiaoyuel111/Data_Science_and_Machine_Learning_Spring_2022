@@ -1,12 +1,9 @@
-The Lecture 5 is divided into two parts
+**Introduction**  
 
-- Part 1:
+- Both logistic regression and linear regression are generalized linear models. Logistic regression assumes that dependent variable y obeys Bernoulli distribution, while linear regression assumes that dependent variable y obeys Gaussian distribution. 
+- There are many similarities between logistic regression and linear regression. If the **sigmoid function** is removed, the logistic regression algorithm is a linear regression. It can be said that logistic regression is supported by linear regression theory, but logistic regression introduces nonlinear factors through sigmoid function, so it can easily deal with the 0 / 1 classification problem.
 
-Logistic Regression Model is explained in detail
-
-- Part 2:
-
-It explains in detail how to create a custom module
+**DataSet**  
 
 The data used in structure 5 is
 
