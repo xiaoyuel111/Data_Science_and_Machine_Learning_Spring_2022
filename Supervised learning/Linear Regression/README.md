@@ -9,8 +9,8 @@
     4. Loss function: in order to evaluate the quality of model fitting, the loss function is usually used to measure the degree of fitting.
 - Linear Regression
 
-  The regression algorithm is relative to the classification algorithm, which is related to the value type of the target variable y we want to predict. If the target variable y is a classified variable, such as predicting the gender of users, predicting the color of flowers, and predicting whether we have a disease, we need to use the classification algorithm to fit the training data and make a prediction; If y is a continuous variable, such as predicting the income of users, predicting the probability of employee turnover, and predicting the probability of lung cancer, we need to use a regression model. 
-  Linear regression is a kind of regression algorithm. If there is a "linear relationship" between two or more variables, find out the "routine" between variables through historical data, and the established model is a linear regression model.
+  - The regression algorithm is relative to the classification algorithm, which is related to the value type of the target variable y we want to predict. If the target variable y is a classified variable, such as predicting the gender of users, predicting the color of flowers, and predicting whether we have a disease, we need to use the classification algorithm to fit the training data and make a prediction; If y is a continuous variable, such as predicting the income of users, predicting the probability of employee turnover, and predicting the probability of lung cancer, we need to use a regression model.   
+  - Linear regression is a kind of regression algorithm. If there is a "linear relationship" between two or more variables, find out the "routine" between variables through historical data, and the established model is a linear regression model.
 
 
 **DataSet**  
