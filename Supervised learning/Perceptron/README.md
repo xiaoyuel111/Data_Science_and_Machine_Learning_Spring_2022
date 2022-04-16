@@ -5,16 +5,16 @@ Perceptron is also referred to as a single-layer artificial neural network to di
 
 The model of perceptron is a model with several inputs and one output, as shown in the following figure:
 
-
+![Image text](https://raw.github.com/xiaoyuel111/Data_Science_and_Machine_Learning_Spring_2022/Supervised%20learning/Perceptron/1.png)
 
 A linear relationship is learned between output and input, and intermediate output results are obtained:
 
-
+![Image text](https://raw.github.com/xiaoyuel111/Data_Science_and_Machine_Learning_Spring_2022/Supervised%20learning/Perceptron/1.png)
 
 
 Then there is a neuron activation function:
 
-
+![Image text](https://raw.github.com/xiaoyuel111/Data_Science_and_Machine_Learning_Spring_2022/Supervised%20learning/Perceptron/1.png)
 
 
 To get the desired result 1 or - 1 
