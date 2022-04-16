@@ -1,14 +1,14 @@
-Lecture 7 is divided into two parts
+**Introduction**  
 
-- Part 1
+K-nearest neighbor algorithm is a basic classification and regression method.
 
-Explained the k-nearest neighbor model 
+K-nearest neighbor algorithm is to find the k nearest instances in the training data set for a new input instance given a training data set. Most of these K instances belong to a certain class, and then classify the input instance into this class. (this is similar to the idea that the minority obeys the majority in real life)
 
-- Part 2
+The idea of k-nearest neighbor algorithm is very simple and easy to understand. However, there are still many problems that need to be paid attention to in order to work an algorithm in practical application. For example, how to determine K, and how much is the best effect? How does the so-called nearest neighbor judge a given? In this assignment, we will try one by one
 
-Explained the confusion matrix
+**DataSet**  
 
-The data used in Lecture 7 is
+The data used in this task is
 
 - Wheat seed dataset:
 
