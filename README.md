@@ -1,7 +1,5 @@
 
 
-![image](root_image.jpeg)
-
 # INDE 577 — Data Science and Machine Learning
 
 ### Instructor: Randy R. Davila
