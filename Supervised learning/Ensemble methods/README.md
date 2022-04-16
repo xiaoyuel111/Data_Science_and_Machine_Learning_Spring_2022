@@ -1,12 +1,18 @@
-Lecture 9 is divided into two parts
+**Introduction**
 
-- Part 1
+- Ensemble Learning
 
-Explained the Ensemble Methods. The main contents are bagging and random forest。
+Ensemble learning is a machine learning paradigm. In ensemble learning, we will train multiple models (commonly known as "weak learners") to solve the same problem and combine them to obtain better results. The most important assumption is that when the weak models are combined correctly, we can get a more accurate and / or robust model.
 
-- Part 2
+   - bagging
 
-Another ensemble method, boosting, is explained. In this part, we explain two methods, AdaBoost and gradient boosting.
+This method usually considers homogeneous weak learners, learns these weak learners independently in parallel, and combines them according to a certain deterministic average process.
+
+  - boosting
+
+This method usually considers homogeneous weak learners. It learns these weak learners sequentially in a highly adaptive way (each basic model depends on the previous model), and combines them according to a certain deterministic strategy.
+
+**DataSet** 
 
 The datasets included this lecture is:
 - Wheat seed dataset:
